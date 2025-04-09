@@ -1,6 +1,7 @@
 ![revivify banner](banner.png)
 
 ## Breathing New Life into Open Source
+![Revivify Badge](https://img.shields.io/badge/%E2%9D%A4%EF%B8%8F-r?style=flat-square&label=r&labelColor=%23FAF9F6&color=%23FAF9F6) ![GitHub License](https://img.shields.io/github/license/revivify-oss/revivify?style=flat-square&labelColor=%23FAF9F6) ![GitHub Discussions](https://img.shields.io/github/discussions/revivify-oss/revivify?style=flat-square&labelColor=%23FAF9F6) ![Maintenance](https://img.shields.io/maintenance/yes/2025?style=flat-square&labelColor=%23FAF9F6)
 
 Revivify is a platform dedicated to the systematic revival of valuable but abandoned open-source projects. 
 
